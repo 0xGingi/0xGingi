@@ -1,4 +1,5 @@
-# $ whoami?
-Degenerate, Coder, Linux Nerd, and whatever else
+# $whoami
+<image src="https://www.hackthebox.eu/badge/image/641801" alt="Hack The Box"></image>
 <br />
-<image src="https://www.hackthebox.eu/badge/image/641801" alt="Hack The Box">
+<br />
+[![My Skills](https://skillicons.dev/icons?i=js,bash,cloudflare,ipfs,linux,nginx,unreal,vscode)](https://skillicons.dev)
