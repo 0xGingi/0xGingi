@@ -21,5 +21,10 @@
 <p>DNS Over HTTPS: https://dns-proxy.0xgingi.com/dns-query</p>
 <p>DNS Over TLS: tls://dns-proxy.0xgingi.com:865</p>
 
+<h5>
+  Tor WebSocket Bridge (Currently in Tor Browser Alpha Only)
+</h5>
+<p>webtunnel [2001:db8:57ea:b682:679:c8e4:5e9c:4b1d]:443 E003F938F16A00559AE0349EA8E5874299E5E258 url=https://bridge.onionsherpa.com/PxfEtxfIVTksi2xRw2quR1LC</p>
+
 <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,nginx,cloudflare,docker,ipfs,bash,linux,vscode,unreal)]()
