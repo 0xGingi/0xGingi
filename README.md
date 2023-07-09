@@ -2,7 +2,6 @@
 <image src="https://www.hackthebox.eu/badge/image/641801" alt="Hack The Box"></image>
 <br />
 <br />
-<h3>Check Out My Services</h3>
 <p><a href="https://0xgingi.com">0xGingi.com</a>  - Terminal Website</p>
 <p><a href="https://search.0xgingi.com">Search.0xGingi.com</a>  - SearxNG Instance - Use Engine Token "unlockall" to use Google & Brave. Fuck Bots.</p>
 <p><a href="https://browser.0xgingi.com">Browser.0xGingi.com</a>  - Ungoogled-Chromium Fork with my SearxNG instance as default & My DoH Proxy built in</p>
