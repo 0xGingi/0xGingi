@@ -18,7 +18,7 @@
 </h5>
 <p>Proxies DNS to Quad9, NextDNS & Cloudflare. No Logs</p>
 <p>DNS Over HTTPS: https://dns-proxy.0xgingi.com/dns-query</p>
-<p>DNS Over TLS: tls://dns-proxy.0xgingi.com:865</p>
+<p>DNS Over TLS: tls://dns-proxy.0xgingi.com:853</p>
 
 <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,nginx,cloudflare,docker,ipfs,bash,linux,vscode,unreal)]()
