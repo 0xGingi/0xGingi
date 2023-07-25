@@ -10,7 +10,6 @@
 <p><a href="https://vault.0xgingi.com">Vault.0xGingi.com</a>  - Vaultwarden Password Manager Server</p>
 <p><a href="https://onionsherpa.com">onionsherpa.com</a>  - Matrix Dendrite Homeserver</p>
 <p><a href="https://element.onionsherpa.com">element.onionsherpa.com</a>  - Element Client using my Matrix Dendrite HomeServer</p>
-<p><a href="https://privacymail.zip">PrivacyMail.zip</a>  - Request/Invite Only Private Email</p>
 <p><a href="https://bin.0xgingi.com">Bin.0xGingi.com</a>  - Pastebin</p>
 
 <h5>
