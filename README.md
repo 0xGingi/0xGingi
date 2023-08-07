@@ -9,8 +9,6 @@
 <p><a href="https://encrypt.0xgingi.com">Encrypt.0xGingi.com</a>  - Encrypt/Decrypt Files in your Browser</p>
 <p><a href="https://privacytools.0xgingi.com">PrivacyTools.0xGingi.com</a>  - Large List of Privacy/Security Tools</p>
 <p><a href="https://vault.0xgingi.com">Vault.0xGingi.com</a>  - Vaultwarden Password Manager Server</p>
-<p><a href="https://onionsherpa.com">onionsherpa.com</a>  - Matrix Dendrite Homeserver</p>
-<p><a href="https://element.onionsherpa.com">element.onionsherpa.com</a>  - Element Client using my Matrix Dendrite HomeServer</p>
 <p><a href="https://bin.0xgingi.com">Bin.0xGingi.com</a>  - Pastebin</p>
 
 <h5>
