@@ -9,4 +9,4 @@
 <p><a href="https://vault.0xgingi.com">Vault.0xGingi.com</a>  - Vaultwarden Password Manager Server</p>
 
 <br /> <br />
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nginx,cloudflare,docker,ipfs,bash,linux,vscode,unreal)]()
+![My Skills](https://skillicons.dev/icons?i=linux,bash,neovim,vscode,nginx,docker,cloudflare,python,nodejs,cmake,electron,bots,discord)
