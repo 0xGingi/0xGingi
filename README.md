@@ -1,5 +1,5 @@
-# $whoami
-<image src="https://www.hackthebox.eu/badge/image/641801" alt="Hack The Box"></image>
+# 0xGingi
+![0xGingi's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xGingi&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 <br />
 <br />
 <p><a href="https://0xgingi.com">0xGingi.com</a>  - Terminal Website</p>
