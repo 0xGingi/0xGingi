@@ -3,7 +3,7 @@
 <br />
 <br />
 <p><a href="https://0xgingi.com">0xGingi.com</a>  - Terminal Website</p>
-<p><a href="https://flipmmo.com">FlipMMO</a> - Global Discord MMORPG</p>
+<p><a href="https://eternalsonline.com">Eternals Online</a> - Global Discord MMORPG</p>
 <p><a href="https://hub.docker.com/u/0xgingi">Docker</a> - Docker Images</p>
 
 <br /> <br />
