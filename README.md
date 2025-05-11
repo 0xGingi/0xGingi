@@ -1,5 +1,7 @@
 # 0xGingi
 ![0xGingi's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xGingi&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xgingi&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide=java)
 <br />
 <br />
 <p><a href="https://0xgingi.xyz">0xGingi.xyz</a>  - Terminal Website</p>
