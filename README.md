@@ -5,10 +5,8 @@
 <br />
 <br />
 <p><a href="https://0xgingi.xyz">0xGingi.xyz</a>  - Terminal Website</p>
-<p><a href="https://trustynotes.app">Trusty Notes</a>  - EE2E Notes</p>
+<p><a href="https://moltly.xyz">Moltly</a>  - Tarantula Tracker</p>
 <p><a href="https://eternalsonline.com">Eternals Online</a> - Global Discord MMORPG</p>
-<p><a href="https://hub.docker.com/u/0xgingi">Docker</a> - Docker Images</p>
-
 <br /> <br />
 
 ![My Skills](https://skillicons.dev/icons?i=linux,bash,neovim,vscode,nginx,docker,rust,nodejs,electron,discord)
